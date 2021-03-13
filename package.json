@@ -1,5 +1,6 @@
 {
-    "author":"Lukas Pleva",
+	"author": "Lukas Pleva",
+	"description": "My free code camp tutorial",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
